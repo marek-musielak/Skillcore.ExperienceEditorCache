@@ -1,0 +1,1 @@
+Caching module which makes working with Sitecore Experience Editor more pleasant.
